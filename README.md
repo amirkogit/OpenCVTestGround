@@ -38,14 +38,14 @@ c:\dev\opencv\build\install\x86\vc14\
 ```
 INCLUDEPATH += c:/dev/opencv/build/install/include
 Debug: {
-	LIBS += -lc:/dev/opencv/build/install/x86/vc14/lib/opencv_world330d
+	LIBS += -lc:/dev/opencv/build/install/x86/vc14/lib/opencv_world341d
 }
 Release: {
-	LIBS += -lc:/dev/opencv/build/install/x86/vc14/lib/opencv_world330
+	LIBS += -lc:/dev/opencv/build/install/x86/vc14/lib/opencv_world41
 }
 ```
 
-This file can be used in Qt projects to link to OpenCV.
+This file can be used in Qt projects to link to OpenCV. Note the number like 341d or 341. This may vary depending on which version of OpenCV is built. Change this number accordingly otherwise we may get a linker error when building Qt and OpenCV programs.
 
 13. Set PATH environment variables. Open System Properties window and add the following to PATH
 c:\dev\opencv\build\install\x86\vc14\bin
