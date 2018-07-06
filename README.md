@@ -55,3 +55,10 @@ c:\dev\opencv\build\install\x86\vc14\bin
 c:\dev\opencv\build\install\x86\vc14\lib
 ```
 
+## References
+
+[OpenCV](https://opencv.org/)
+
+[Computer Vision with OpenCV 3 and Qt5](https://www.amazon.com/Computer-Vision-OpenCV-multithreaded-cross-platform/dp/178847239X)
+
+[OpenCV 3 Computer Vision with Python Cookbook](https://www.amazon.com/OpenCV-Computer-Vision-Python-Cookbook/dp/1788474449/ref=sr_1_1_sspa?s=books&ie=UTF8&qid=1530905873&sr=1-1-spons&keywords=python+opencv+cookbook&psc=1)
