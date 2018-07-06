@@ -1,5 +1,5 @@
 # OpenCVTestGround
-Sandbox for trying out different stuffs in OpenCV. This repository consists of small projects written in Qt and integrating it with OpenCV.
+Sandbox for learning OpenCV. This repository consists of small projects written in C++, Qt framework and Python. 
 
 ## Steps to build OpenCV in Windows
 1. Download sources from the following link:
