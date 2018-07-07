@@ -11,3 +11,6 @@ The folder 'Plugin_User' contains the client code how this plugin is used.
 2. Build the project 'Plugin_User'
 
 The file generated in Step 1 (median_filter_plugin.dll) should be copied into debug or release folder under the sub-folder 'filter_plugins' because Qt will search under this folder for all plugins.
+
+## Hello_Qt_OpenCV
+This project demonstrates how to use Qt's resources and linguistic module
