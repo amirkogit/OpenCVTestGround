@@ -4,4 +4,5 @@ SUBDIRS += \
     template_plugin \
     copymakeborder_plugin \
     filter_plugin \
-    transform_plugin
+    transform_plugin \
+    color_plugin
