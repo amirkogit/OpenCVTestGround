@@ -5,4 +5,5 @@ SUBDIRS += \
     copymakeborder_plugin \
     filter_plugin \
     transform_plugin \
-    color_plugin
+    color_plugin \
+    fourier_plugin
