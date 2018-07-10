@@ -1,4 +1,5 @@
 TEMPLATE = subdirs
 SUBDIRS += \
     mainapp \
-    template_plugin
+    template_plugin \
+    copymakeborder_plugin
