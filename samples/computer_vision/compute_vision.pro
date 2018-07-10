@@ -6,4 +6,5 @@ SUBDIRS += \
     filter_plugin \
     transform_plugin \
     color_plugin \
-    fourier_plugin
+    fourier_plugin \
+    segmentation_plugin
