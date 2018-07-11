@@ -7,4 +7,5 @@ SUBDIRS += \
     transform_plugin \
     color_plugin \
     fourier_plugin \
-    segmentation_plugin
+    segmentation_plugin \
+    keypoint_plugin
