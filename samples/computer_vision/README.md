@@ -4,7 +4,7 @@ This project demonstrates how to use Qt's Plugin Architecture to build structure
 ## mainapp:
 This is the main application where plugins will be loaded and it consists of other functionalities like changing the theme of the application, internationalization etc.
 
-## <PluginName>_plugin:
+## PluginName_plugin:
 There are several folders that follows the above naming convention. These are individual plugins that can be developed independently and deployed as a dynamic library. After building these plugins, it should be copied in the folder where the final executable application is located.
 
 ## General steps for building new plugins:
